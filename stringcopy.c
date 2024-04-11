@@ -1,4 +1,6 @@
 #include<stdio.h>
+//String copy without using library function
+
 int main(){
     char s1[100],s2[100];
     int i,j;
